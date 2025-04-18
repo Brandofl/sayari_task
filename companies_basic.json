@@ -1,0 +1,3128 @@
+[
+  {
+    "name": "Accurate INSPEX, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000171856",
+    "id": 171478
+  },
+  {
+    "name": "AKITA DRILLING USA CORP.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000103696",
+    "id": 103327
+  },
+  {
+    "name": "AKITA EQUIPMENT CORP.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000104048",
+    "id": 103679
+  },
+  {
+    "name": "AMERICAN ELECTRIC, INC. (dba XYZ ELECTRIC, INC.)",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000100381",
+    "id": 100012
+  },
+  {
+    "name": "ATOS HEALTHCARE SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000144694",
+    "id": 144321
+  },
+  {
+    "name": "ATOS IT OUTSOURCING SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000144693",
+    "id": 144320
+  },
+  {
+    "name": "BLUESHIFT TELECOM, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000046885",
+    "id": 46678
+  },
+  {
+    "name": "Cirrata Partners Insurance Agency LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002983026",
+    "id": 289003
+  },
+  {
+    "name": "COMCAST BROADBAND SECURITY, LLC (dba XFINITY HOME)",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000165771",
+    "id": 165394
+  },
+  {
+    "name": "CONDUENT BUSINESS SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000098023",
+    "id": 97654
+  },
+  {
+    "name": "CONDUENT CARD SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000155155",
+    "id": 154781
+  },
+  {
+    "name": "CONDUENT GOVERNMENT SYSTEMS, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000048634",
+    "id": 48426
+  },
+  {
+    "name": "CONDUENT HEALTHCARE PROVIDER CONSULTING SOLUTIONS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000022771",
+    "id": 22620
+  },
+  {
+    "name": "CONDUENT HEALTHCARE PROVIDER CONSULTING SOLUTIONS, INC.",
+    "type": "Reserved Name",
+    "record_num": "0000197103",
+    "id": 196723
+  },
+  {
+    "name": "CONDUENT HR SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000106362",
+    "id": 105993
+  },
+  {
+    "name": "CONDUENT HUMAN RESOURCE SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000088647",
+    "id": 88279
+  },
+  {
+    "name": "CONDUENT HUMAN RESOURCE SERVICES, LLC",
+    "type": "Limited Liability Partnership - Foreign",
+    "record_num": "0000182561",
+    "id": 182181
+  },
+  {
+    "name": "CONDUENT STATE & LOCAL SOLUTIONS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000039021",
+    "id": 38823
+  },
+  {
+    "name": "CONDUENT STATE HEALTHCARE, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000074703",
+    "id": 74479
+  },
+  {
+    "name": "CONTRACT FREIGHTERS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000090925",
+    "id": 90557
+  },
+  {
+    "name": "ELECTRONIC CLEARING HOUSE, INC. (dba XPRESSCHEX)",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000065158",
+    "id": 64945
+  },
+  {
+    "name": "GXO LOGISTICS SUPPLY CHAIN, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000169571",
+    "id": 169193
+  },
+  {
+    "name": "GXO Logistics Worldwide, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000050314",
+    "id": 50106
+  },
+  {
+    "name": "MCKESSON MEDICAL-SURGICAL MEDIMART INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000032178",
+    "id": 31989
+  },
+  {
+    "name": "Miller Underground, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000153484",
+    "id": 153110
+  },
+  {
+    "name": "OUTLAW WALLEY TOURNAMENT ASSOCIATION",
+    "type": "Corporation - Nonprofit - Domestic",
+    "record_num": "0000087841",
+    "id": 87474
+  },
+  {
+    "name": "RingSquared Telecom LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000146740",
+    "id": 146367
+  },
+  {
+    "name": "RXO Corporate Solutions, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005914988",
+    "id": 337397
+  },
+  {
+    "name": "RXO Last Mile, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000090931",
+    "id": 90563
+  },
+  {
+    "name": "STERLING COMMERCE (XEL), INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000056583",
+    "id": 56373
+  },
+  {
+    "name": "STERLING COMMERCE (XEL), INC.",
+    "type": "Reserved Name",
+    "record_num": "0000197530",
+    "id": 197150
+  },
+  {
+    "name": "Voxtur Services, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002845261",
+    "id": 281594
+  },
+  {
+    "name": "X & Q ESTATES LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000044815",
+    "id": 44610
+  },
+  {
+    "name": "X & Z BUSINESS SOLUTIONS, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000123121",
+    "id": 122751
+  },
+  {
+    "name": "X 1 BUILDERS , LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000126251",
+    "id": 125881
+  },
+  {
+    "name": "X BAR BAR ENTERPRISES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000111418",
+    "id": 111048
+  },
+  {
+    "name": "X Block Inc",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006838115",
+    "id": 387774
+  },
+  {
+    "name": "X CORP.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000060475",
+    "id": 60263
+  },
+  {
+    "name": "X Corp.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006253561",
+    "id": 356798
+  },
+  {
+    "name": "X Diamond Partners, LLP",
+    "type": "Limited Liability Partnership - Domestic",
+    "record_num": "0005577759",
+    "id": 319429
+  },
+  {
+    "name": "X DRILLING",
+    "type": "Trade Name",
+    "record_num": "0000252633",
+    "id": 252253
+  },
+  {
+    "name": "X ELECTRIC",
+    "type": "Trade Name",
+    "record_num": "0000244382",
+    "id": 244002
+  },
+  {
+    "name": "X FOODS",
+    "type": "Trade Name",
+    "record_num": "0006173383",
+    "id": 352364
+  },
+  {
+    "name": "X Golf Bismarck",
+    "type": "Trade Name",
+    "record_num": "0005891299",
+    "id": 336584
+  },
+  {
+    "name": "X Golf Minot",
+    "type": "Trade Name",
+    "record_num": "0005643099",
+    "id": 322123
+  },
+  {
+    "name": "X INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000136026",
+    "id": 135654
+  },
+  {
+    "name": "X LAZY M LIVESTOCK, LLC",
+    "type": "Limited Liability Company - Farm/Ranch - In-State",
+    "record_num": "0000087860",
+    "id": 87493
+  },
+  {
+    "name": "X LINE LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000108869",
+    "id": 108500
+  },
+  {
+    "name": "X MACHINE",
+    "type": "Trade Name",
+    "record_num": "0000235919",
+    "id": 235539
+  },
+  {
+    "name": "X Mark Properties LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006848693",
+    "id": 388292
+  },
+  {
+    "name": "X MARK SOLUTIONS, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000125969",
+    "id": 125599
+  },
+  {
+    "name": "X Payments LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006261917",
+    "id": 357555
+  },
+  {
+    "name": "X Realty LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005781604",
+    "id": 329549
+  },
+  {
+    "name": "X REPUBLIC SALON LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005326132",
+    "id": 304760
+  },
+  {
+    "name": "X S BROKERS INSURANCE AGENCY, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000157662",
+    "id": 157286
+  },
+  {
+    "name": "X STREAM CONST.",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000192680",
+    "id": 192300
+  },
+  {
+    "name": "X Y Z INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000012751",
+    "id": 12603
+  },
+  {
+    "name": "X.L. Global Services, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006988332",
+    "id": 396369
+  },
+  {
+    "name": "X10 INVESTMENTS L.L.C.",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000173806",
+    "id": 173426
+  },
+  {
+    "name": "X11 LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006672219",
+    "id": 379519
+  },
+  {
+    "name": "X2COMM, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000068574",
+    "id": 68357
+  },
+  {
+    "name": "x2VA LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006023395",
+    "id": 343679
+  },
+  {
+    "name": "x2VA LLC",
+    "type": "Reserved Name",
+    "record_num": "0006022296",
+    "id": 343557
+  },
+  {
+    "name": "X4 Pharmaceuticals, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006339864",
+    "id": 363051
+  },
+  {
+    "name": "X4I LIMITED (dba X4I LIMITED, LLC)",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006190492",
+    "id": 352995
+  },
+  {
+    "name": "X4I LIMITED, LLC",
+    "type": "Trade Name",
+    "record_num": "0006187455",
+    "id": 352753
+  },
+  {
+    "name": "X9 ENTERTAINMENT",
+    "type": "Trade Name",
+    "record_num": "0000237151",
+    "id": 236771
+  },
+  {
+    "name": "XABEAT, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000103786",
+    "id": 103417
+  },
+  {
+    "name": "XaBeat, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006269430",
+    "id": 358352
+  },
+  {
+    "name": "XABOP, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000162111",
+    "id": 161734
+  },
+  {
+    "name": "XABOW EXPRESS LOGISTICS INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0006355495",
+    "id": 364524
+  },
+  {
+    "name": "X-ACT FLEET SOLUTIONS",
+    "type": "Trade Name",
+    "record_num": "0000262292",
+    "id": 261912
+  },
+  {
+    "name": "XactlyOne Foundation",
+    "type": "Corporation - Nonprofit - Foreign",
+    "record_num": "0005510743",
+    "id": 315018
+  },
+  {
+    "name": "Xactus, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005806191",
+    "id": 330579
+  },
+  {
+    "name": "XAGENT",
+    "type": "Trade Name",
+    "record_num": "0000264343",
+    "id": 263963
+  },
+  {
+    "name": "XAM STUDIOS",
+    "type": "Trade Name",
+    "record_num": "0000240053",
+    "id": 239673
+  },
+  {
+    "name": "XANADU",
+    "type": "Trade Name",
+    "record_num": "0000203768",
+    "id": 203388
+  },
+  {
+    "name": "XANADU OPTIONS & RECOVERY RESOURCES",
+    "type": "Corporation - Nonprofit - Domestic",
+    "record_num": "0000092851",
+    "id": 92482
+  },
+  {
+    "name": "XANADU PRODUCTS, L.L.C.",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000041563",
+    "id": 41359
+  },
+  {
+    "name": "XANADU TWO OF NORTH DAKOTA, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000017722",
+    "id": 17572
+  },
+  {
+    "name": "XANADU, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000027607",
+    "id": 27453
+  },
+  {
+    "name": "XANADU, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000084583",
+    "id": 84218
+  },
+  {
+    "name": "Xander Products & Service LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005452393",
+    "id": 310991
+  },
+  {
+    "name": "XANDU SHELL CORP.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000049857",
+    "id": 49649
+  },
+  {
+    "name": "XANGO LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000060952",
+    "id": 60740
+  },
+  {
+    "name": "XANODYNE PHARMACEUTICALS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000100535",
+    "id": 100166
+  },
+  {
+    "name": "XAP LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005827829",
+    "id": 332361
+  },
+  {
+    "name": "XAPIC STUDIOS",
+    "type": "Trade Name",
+    "record_num": "0000266006",
+    "id": 265626
+  },
+  {
+    "name": "Xavier Collections LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006611230",
+    "id": 375671
+  },
+  {
+    "name": "Xavier Gold Consulting Group Inc",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0006420317",
+    "id": 366510
+  },
+  {
+    "name": "Xavier Taylor Construction",
+    "type": "Trade Name",
+    "record_num": "0006320673",
+    "id": 361615
+  },
+  {
+    "name": "XB HOLDINGS LLLP",
+    "type": "Limited Liability Limited Partnership - Domestic",
+    "record_num": "0000186436",
+    "id": 186056
+  },
+  {
+    "name": "XB Investments, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005869610",
+    "id": 334862
+  },
+  {
+    "name": "XBLUE CONSULTING CORPORATION",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000104976",
+    "id": 104607
+  },
+  {
+    "name": "XCALIBER INTERNATIONAL LTD., L.L.C.",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000151910",
+    "id": 151536
+  },
+  {
+    "name": "XCALIBER ND, LP",
+    "type": "Limited Partnership - Domestic",
+    "record_num": "0000177048",
+    "id": 176668
+  },
+  {
+    "name": "X-Caliber Rural Capital, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0007004608",
+    "id": 397474
+  },
+  {
+    "name": "Xcalibur Entertainment",
+    "type": "Trade Name",
+    "record_num": "0006363711",
+    "id": 365401
+  },
+  {
+    "name": "Xcalibur Leasing Company",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0006557504",
+    "id": 372441
+  },
+  {
+    "name": "XCAN GRAIN LTD.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000028957",
+    "id": 28778
+  },
+  {
+    "name": "XCAST LABS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0005521523",
+    "id": 315704
+  },
+  {
+    "name": "XCED AVIATION SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000170946",
+    "id": 170568
+  },
+  {
+    "name": "XCEL AG SOLUTIONS LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000172029",
+    "id": 171651
+  },
+  {
+    "name": "XCEL AGRONOMY LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000166132",
+    "id": 165755
+  },
+  {
+    "name": "Xcel Automation",
+    "type": "Trade Name",
+    "record_num": "0002769937",
+    "id": 278291
+  },
+  {
+    "name": "Xcel Automation & Electric LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0002767465",
+    "id": 278153
+  },
+  {
+    "name": "Xcel Aviation",
+    "type": "Trade Name",
+    "record_num": "0005675460",
+    "id": 324145
+  },
+  {
+    "name": "Xcel Aviation LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005852398",
+    "id": 333316
+  },
+  {
+    "name": "Xcel Detailing",
+    "type": "Trade Name",
+    "record_num": "0006431195",
+    "id": 367138
+  },
+  {
+    "name": "XCEL ENERGY",
+    "type": "Trade Name",
+    "record_num": "0000237337",
+    "id": 236957
+  },
+  {
+    "name": "XCEL ENERGY INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000000120",
+    "id": 83
+  },
+  {
+    "name": "XCEL ENERGY PERFORMANCE CONTRACTING INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000038006",
+    "id": 37809
+  },
+  {
+    "name": "XCEL ENERGY SERVICES INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000064741",
+    "id": 64528
+  },
+  {
+    "name": "XCEL ENERGY WHOLESALE PROPANE INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000029674",
+    "id": 29495
+  },
+  {
+    "name": "XCEL ERECTORS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000002063",
+    "id": 1940
+  },
+  {
+    "name": "Xcel Holdings",
+    "type": "Trade Name",
+    "record_num": "0005807728",
+    "id": 330716
+  },
+  {
+    "name": "Xcel Holdings LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005852383",
+    "id": 333311
+  },
+  {
+    "name": "XCEL NDT LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000171823",
+    "id": 171445
+  },
+  {
+    "name": "XCEL PROTECTIVE SERVICES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000091015",
+    "id": 90647
+  },
+  {
+    "name": "Xcel Protective Services, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0005455239",
+    "id": 311235
+  },
+  {
+    "name": "Xcel Roofing of Siouxland, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002711784",
+    "id": 275752
+  },
+  {
+    "name": "XCEL TRUCKING LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000112023",
+    "id": 111653
+  },
+  {
+    "name": "XCEL UNIVERSITY, INC.",
+    "type": "Corporation - Nonprofit - Foreign",
+    "record_num": "0000143657",
+    "id": 143284
+  },
+  {
+    "name": "Xcelerate Indoor Adventures",
+    "type": "Trade Name",
+    "record_num": "0006271482",
+    "id": 358513
+  },
+  {
+    "name": "Xcelerate Indoor Adventures LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006271478",
+    "id": 358512
+  },
+  {
+    "name": "XCELL DRIVING SCHOOL LLP",
+    "type": "Limited Liability Partnership - Domestic",
+    "record_num": "0000181034",
+    "id": 180654
+  },
+  {
+    "name": "XCELLENT HEALTH INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0003004036",
+    "id": 289935
+  },
+  {
+    "name": "XCEPTIONAL CONSTRUCTION LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000118756",
+    "id": 118386
+  },
+  {
+    "name": "XCHANGE",
+    "type": "Trade Name",
+    "record_num": "0000237102",
+    "id": 236722
+  },
+  {
+    "name": "XCHANGE BENEFITS, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000108533",
+    "id": 108164
+  },
+  {
+    "name": "XCHANGE TELECOM LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005927138",
+    "id": 339752
+  },
+  {
+    "name": "XCHANGEAIR CORPORATION",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000006073",
+    "id": 5925
+  },
+  {
+    "name": "XCHANGING SERVICES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000106011",
+    "id": 105642
+  },
+  {
+    "name": "X-CHEM, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000122091",
+    "id": 121721
+  },
+  {
+    "name": "XCL AssetCo, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002784591",
+    "id": 279055
+  },
+  {
+    "name": "XCL Marketing, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005247897",
+    "id": 302160
+  },
+  {
+    "name": "XCL Resources, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002772084",
+    "id": 278418
+  },
+  {
+    "name": "XCL RoyaltyCo, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002981591",
+    "id": 288834
+  },
+  {
+    "name": "XCLOUD, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005338314",
+    "id": 305451
+  },
+  {
+    "name": "Xclusive Apparel",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0002797909",
+    "id": 279897
+  },
+  {
+    "name": "XCLUSIVE SOLUTIONS",
+    "type": "Trade Name",
+    "record_num": "0000238314",
+    "id": 237934
+  },
+  {
+    "name": "XCLUSIVE SOLUTIONS INCORPORTED",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000124829",
+    "id": 124459
+  },
+  {
+    "name": "XCMG America Financial LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005922092",
+    "id": 338193
+  },
+  {
+    "name": "X-Com, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002831214",
+    "id": 280545
+  },
+  {
+    "name": "XConnect Texas, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006215915",
+    "id": 354792
+  },
+  {
+    "name": "XConnect, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000141609",
+    "id": 141236
+  },
+  {
+    "name": "XCS Pros",
+    "type": "Trade Name",
+    "record_num": "0006028885",
+    "id": 344030
+  },
+  {
+    "name": "XCS Pros, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006028866",
+    "id": 344027
+  },
+  {
+    "name": "xDatak LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005876954",
+    "id": 335425
+  },
+  {
+    "name": "XDIMENSIONAL TECHNOLOGIES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000064298",
+    "id": 64085
+  },
+  {
+    "name": "XDP Digital LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005499495",
+    "id": 314011
+  },
+  {
+    "name": "XDS Group, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005934237",
+    "id": 339969
+  },
+  {
+    "name": "XE MOBILE 55, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000086924",
+    "id": 86558
+  },
+  {
+    "name": "Xe USA",
+    "type": "Trade Name",
+    "record_num": "0002695525",
+    "id": 274036
+  },
+  {
+    "name": "Xebec Systems USA LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000169500",
+    "id": 169122
+  },
+  {
+    "name": "XEBU, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005857300",
+    "id": 333730
+  },
+  {
+    "name": "XEC CONSTRUCTION, INC.",
+    "type": "Trade Name",
+    "record_num": "0000257304",
+    "id": 256924
+  },
+  {
+    "name": "XEC, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006336472",
+    "id": 362695
+  },
+  {
+    "name": "XEC, INC. (dba XEC CONSTRUCTION, INC.)",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000138302",
+    "id": 137930
+  },
+  {
+    "name": "XEC, LLC",
+    "type": "Trade Name",
+    "record_num": "0000248914",
+    "id": 248534
+  },
+  {
+    "name": "XeCare LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005499136",
+    "id": 313973
+  },
+  {
+    "name": "XEDYK INDUSTRIES, INCORPORATED",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000142635",
+    "id": 142262
+  },
+  {
+    "name": "Xelix Distribution, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006052722",
+    "id": 346477
+  },
+  {
+    "name": "XELLIA PHARMACEUTICALS USA LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000170571",
+    "id": 170193
+  },
+  {
+    "name": "XELOR, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000005675",
+    "id": 5527
+  },
+  {
+    "name": "XEN 2, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000104213",
+    "id": 103844
+  },
+  {
+    "name": "Xencom Energy Management, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002859472",
+    "id": 282675
+  },
+  {
+    "name": "XENCOM FACILITY MANAGEMENT LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000105806",
+    "id": 105437
+  },
+  {
+    "name": "XENERGY, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000051741",
+    "id": 51532
+  },
+  {
+    "name": "Xenex Disinfection Services Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000135506",
+    "id": 135134
+  },
+  {
+    "name": "Xenith Development Group",
+    "type": "Trade Name",
+    "record_num": "0006685910",
+    "id": 380781
+  },
+  {
+    "name": "XENITH, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000155100",
+    "id": 154726
+  },
+  {
+    "name": "XENOPORT, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000123645",
+    "id": 123275
+  },
+  {
+    "name": "XENSCALE",
+    "type": "Trade Name",
+    "record_num": "0000238533",
+    "id": 238153
+  },
+  {
+    "name": "XENTEL AMERICA, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000031121",
+    "id": 30932
+  },
+  {
+    "name": "XENTEL INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000058356",
+    "id": 58146
+  },
+  {
+    "name": "XEOHEALTH CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000109878",
+    "id": 109508
+  },
+  {
+    "name": "Xeratex Group, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006311361",
+    "id": 360667
+  },
+  {
+    "name": "XERCOR INSURANCE SERVICES LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000148493",
+    "id": 148120
+  },
+  {
+    "name": "Xeric Holdings LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006828480",
+    "id": 387248
+  },
+  {
+    "name": "Xeris Pharmaceuticals, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0002705646",
+    "id": 275237
+  },
+  {
+    "name": "Xero LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006714143",
+    "id": 382036
+  },
+  {
+    "name": "XEROX BUSINESS SERVICES",
+    "type": "Trade Name",
+    "record_num": "0000268575",
+    "id": 268195
+  },
+  {
+    "name": "Xerox Business Solutions, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0007001379",
+    "id": 397196
+  },
+  {
+    "name": "XEROX CAPITAL SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000069202",
+    "id": 68985
+  },
+  {
+    "name": "XEROX CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000017597",
+    "id": 17447
+  },
+  {
+    "name": "XEROX FINANCIAL SERVICES LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000073595",
+    "id": 73374
+  },
+  {
+    "name": "XEROX GLOBAL SERVICES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000050217",
+    "id": 50009
+  },
+  {
+    "name": "XEROX GOVERNMENT SYSTEMS",
+    "type": "Trade Name",
+    "record_num": "0000268578",
+    "id": 268198
+  },
+  {
+    "name": "XEROX LEASE EQUIPMENT LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000068906",
+    "id": 68689
+  },
+  {
+    "name": "XEROX LEASE FUNDING LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000030358",
+    "id": 30171
+  },
+  {
+    "name": "XEROX RELOCATION & ASSIGNMENT SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000102300",
+    "id": 101931
+  },
+  {
+    "name": "XEROX STATE & LOCAL SOLUTIONS",
+    "type": "Trade Name",
+    "record_num": "0000268576",
+    "id": 268196
+  },
+  {
+    "name": "XEROX STATE HEALTHCARE",
+    "type": "Trade Name",
+    "record_num": "0000268582",
+    "id": 268202
+  },
+  {
+    "name": "XEROX UNCLAIMED PROPERTY CLEARINGHOUSE",
+    "type": "Trade Name",
+    "record_num": "0000249558",
+    "id": 249178
+  },
+  {
+    "name": "XERXES COMMERCE CENTER, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000115608",
+    "id": 115238
+  },
+  {
+    "name": "XESYSTEMS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000054183",
+    "id": 53973
+  },
+  {
+    "name": "XESYSTEMS, INC.",
+    "type": "Reserved Name",
+    "record_num": "0000197482",
+    "id": 197102
+  },
+  {
+    "name": "XETA TECHNOLOGIES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000062616",
+    "id": 62403
+  },
+  {
+    "name": "X-Factor Energy Services LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0002975704",
+    "id": 288488
+  },
+  {
+    "name": "XFI Inc",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0002860458",
+    "id": 282742
+  },
+  {
+    "name": "XFINITY HOME",
+    "type": "Trade Name",
+    "record_num": "0000270178",
+    "id": 269798
+  },
+  {
+    "name": "Xfinity Home",
+    "type": "Trade Name",
+    "record_num": "0006092932",
+    "id": 348941
+  },
+  {
+    "name": "XFIT Holdings, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006204817",
+    "id": 353992
+  },
+  {
+    "name": "XFIT, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000115231",
+    "id": 114861
+  },
+  {
+    "name": "X-GEN PHARMACEUTICALS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000100537",
+    "id": 100168
+  },
+  {
+    "name": "XGP PROPERTIES, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000117427",
+    "id": 117057
+  },
+  {
+    "name": "X-GRAIN CREATIONS",
+    "type": "Trade Name",
+    "record_num": "0000266672",
+    "id": 266292
+  },
+  {
+    "name": "XGSC Inc.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0007011900",
+    "id": 398144
+  },
+  {
+    "name": "XH, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000015018",
+    "id": 14868
+  },
+  {
+    "name": "XHOSHGA CONSULTING, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000173329",
+    "id": 172950
+  },
+  {
+    "name": "XIBITZ INCORPORATED",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000111097",
+    "id": 110727
+  },
+  {
+    "name": "XIE XIE",
+    "type": "Trade Name",
+    "record_num": "0000226566",
+    "id": 226186
+  },
+  {
+    "name": "XIE XIE, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000074263",
+    "id": 74042
+  },
+  {
+    "name": "XIEX TELECOMMUNICATIONS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000039625",
+    "id": 39424
+  },
+  {
+    "name": "XIGENT SOLUTIONS, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000085071",
+    "id": 84706
+  },
+  {
+    "name": "Xigent Solutions, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006091585",
+    "id": 348851
+  },
+  {
+    "name": "XII TO 4",
+    "type": "Trade Name",
+    "record_num": "0000266720",
+    "id": 266340
+  },
+  {
+    "name": "XIIN FANIIN TRANSPORTATION, L.L.C.",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000153339",
+    "id": 152965
+  },
+  {
+    "name": "XILAJU, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005914329",
+    "id": 337322
+  },
+  {
+    "name": "Ximedica, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005317372",
+    "id": 304254
+  },
+  {
+    "name": "XIN HONG JIYE",
+    "type": "Trade Name",
+    "record_num": "0000243105",
+    "id": 242725
+  },
+  {
+    "name": "XINKE INC",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000113286",
+    "id": 112916
+  },
+  {
+    "name": "XINSURANCE",
+    "type": "Trade Name",
+    "record_num": "0000266666",
+    "id": 266286
+  },
+  {
+    "name": "XIO STRATEGIES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000038128",
+    "id": 37931
+  },
+  {
+    "name": "XIOTECH CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000066417",
+    "id": 66201
+  },
+  {
+    "name": "XIPHOS TECHNICAL SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000136795",
+    "id": 136423
+  },
+  {
+    "name": "XI-PI CHAPTER OF TAU KAPPA EPSILON FRATERNITY, INC.",
+    "type": "Corporation - Nonprofit - Domestic",
+    "record_num": "0000027142",
+    "id": 26988
+  },
+  {
+    "name": "XIULING INC",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0005851059",
+    "id": 333154
+  },
+  {
+    "name": "XJK SERVICES LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000170125",
+    "id": 169747
+  },
+  {
+    "name": "XJOY LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006948055",
+    "id": 393161
+  },
+  {
+    "name": "Xkulsiv Kickz LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005732815",
+    "id": 326725
+  },
+  {
+    "name": "XL ENVIRONMENTAL, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000073668",
+    "id": 73447
+  },
+  {
+    "name": "XL Farms",
+    "type": "Trade Name",
+    "record_num": "0003069778",
+    "id": 293283
+  },
+  {
+    "name": "XL GROUP, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000159472",
+    "id": 159096
+  },
+  {
+    "name": "XL HARDBANDING AND FABRICATION, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000078048",
+    "id": 77820
+  },
+  {
+    "name": "XL HOMES, CORP.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000047848",
+    "id": 47640
+  },
+  {
+    "name": "XL INDUSTRIAL SERVICES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000136636",
+    "id": 136264
+  },
+  {
+    "name": "XL LOGISTICS LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0003016450",
+    "id": 290974
+  },
+  {
+    "name": "XL MEDIAWORKS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000147833",
+    "id": 147460
+  },
+  {
+    "name": "XL PRINT",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000190231",
+    "id": 189851
+  },
+  {
+    "name": "XL TRANSPORT, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000123442",
+    "id": 123072
+  },
+  {
+    "name": "XLC LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000122084",
+    "id": 121714
+  },
+  {
+    "name": "XLCONNECT SERVICES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000003984",
+    "id": 3841
+  },
+  {
+    "name": "XLG CONTRACTING, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000150078",
+    "id": 149705
+  },
+  {
+    "name": "XLG CONTRACTING, LLC",
+    "type": "Reserved Name",
+    "record_num": "0000199067",
+    "id": 198687
+  },
+  {
+    "name": "XLHNE, P.C.",
+    "type": "Trade Name",
+    "record_num": "0007046060",
+    "id": 399442
+  },
+  {
+    "name": "XLHome Northeast, P.C. (dba XLHNE, P.C.)",
+    "type": "Corporation - Professional - Foreign",
+    "record_num": "0007046064",
+    "id": 399444
+  },
+  {
+    "name": "XLHome, P.C. (dba Home Health Assessments of North Dakota, P.C.)",
+    "type": "Corporation - Professional - Foreign",
+    "record_num": "0003118500",
+    "id": 294747
+  },
+  {
+    "name": "XLM MANAGEMENT, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000158192",
+    "id": 157816
+  },
+  {
+    "name": "XLR8 NUTRITION",
+    "type": "Trade Name",
+    "record_num": "0000230939",
+    "id": 230559
+  },
+  {
+    "name": "XLS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000017600",
+    "id": 17450
+  },
+  {
+    "name": "XLSOURCE, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000049029",
+    "id": 48821
+  },
+  {
+    "name": "XLT HOME REPAIR",
+    "type": "Trade Name",
+    "record_num": "0000268442",
+    "id": 268062
+  },
+  {
+    "name": "XLT Management Services, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0002813336",
+    "id": 280171
+  },
+  {
+    "name": "XLT Pack and Ship",
+    "type": "Trade Name",
+    "record_num": "0006063334",
+    "id": 347215
+  },
+  {
+    "name": "XLT TAXI",
+    "type": "Trade Name",
+    "record_num": "0000270912",
+    "id": 270532
+  },
+  {
+    "name": "xlt taxi",
+    "type": "Trade Name",
+    "record_num": "0006249515",
+    "id": 356424
+  },
+  {
+    "name": "XLT Transport",
+    "type": "Trade Name",
+    "record_num": "0002831383",
+    "id": 280560
+  },
+  {
+    "name": "XLW SHOP LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005744756",
+    "id": 327624
+  },
+  {
+    "name": "XLXF LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005769264",
+    "id": 328530
+  },
+  {
+    "name": "XM ACRES, LLP",
+    "type": "Limited Liability Partnership - Domestic",
+    "record_num": "0005525442",
+    "id": 316181
+  },
+  {
+    "name": "XM SATELLITE RADIO INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000077942",
+    "id": 77714
+  },
+  {
+    "name": "XM42",
+    "type": "Trade Name",
+    "record_num": "0006023021",
+    "id": 343629
+  },
+  {
+    "name": "xmodn security LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0002794925",
+    "id": 279692
+  },
+  {
+    "name": "XMS PERFORMANCE",
+    "type": "Trade Name",
+    "record_num": "0000235937",
+    "id": 235557
+  },
+  {
+    "name": "XMT CLEANING",
+    "type": "Trade Name",
+    "record_num": "0000257135",
+    "id": 256755
+  },
+  {
+    "name": "XN FINANCIAL SERVICES INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000086167",
+    "id": 85802
+  },
+  {
+    "name": "XO BEAUTY",
+    "type": "Trade Name",
+    "record_num": "0000270788",
+    "id": 270408
+  },
+  {
+    "name": "XO COMMUNICATIONS SERVICES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000066683",
+    "id": 66466
+  },
+  {
+    "name": "XO NETWORK SERVICES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000059328",
+    "id": 59117
+  },
+  {
+    "name": "XO SKINCARE LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005884093",
+    "id": 335837
+  },
+  {
+    "name": "XO, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000142240",
+    "id": 141867
+  },
+  {
+    "name": "XOG OPERATING, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000099163",
+    "id": 98794
+  },
+  {
+    "name": "XOJET, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000111012",
+    "id": 110642
+  },
+  {
+    "name": "xokashmere. LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005303489",
+    "id": 303464
+  },
+  {
+    "name": "Xolaria LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006253787",
+    "id": 356840
+  },
+  {
+    "name": "XOMA (US) LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000109209",
+    "id": 108839
+  },
+  {
+    "name": "XOME FIELD SERVICES LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000116547",
+    "id": 116177
+  },
+  {
+    "name": "XOME INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000125669",
+    "id": 125299
+  },
+  {
+    "name": "XOME LEADS LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000137785",
+    "id": 137413
+  },
+  {
+    "name": "XOME REALTY SERVICES LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000124048",
+    "id": 123678
+  },
+  {
+    "name": "XOME REALTY SERVICES LLC",
+    "type": "Reserved Name",
+    "record_num": "0000198715",
+    "id": 198335
+  },
+  {
+    "name": "XOME VALUATIONS",
+    "type": "Trade Name",
+    "record_num": "0000273614",
+    "id": 273234
+  },
+  {
+    "name": "XOMED-TREACE, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000043125",
+    "id": 42921
+  },
+  {
+    "name": "Xoom",
+    "type": "Trade Name",
+    "record_num": "0006878133",
+    "id": 390807
+  },
+  {
+    "name": "XOOM CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000103927",
+    "id": 103558
+  },
+  {
+    "name": "XOOM CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000124360",
+    "id": 123990
+  },
+  {
+    "name": "XORAN TECHNOLOGIES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000090167",
+    "id": 89799
+  },
+  {
+    "name": "XOXO L.L.C.",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005523477",
+    "id": 315910
+  },
+  {
+    "name": "XOXO, PHOENIIX LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005664534",
+    "id": 323422
+  },
+  {
+    "name": "XP INVENTORY LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000097278",
+    "id": 96909
+  },
+  {
+    "name": "XP SYSTEMS CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000049228",
+    "id": 49020
+  },
+  {
+    "name": "XP Transport LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0002742772",
+    "id": 277362
+  },
+  {
+    "name": "XPECTATIONS",
+    "type": "Trade Name",
+    "record_num": "0000223240",
+    "id": 222860
+  },
+  {
+    "name": "XPEDIOR INCORPORATED",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000060192",
+    "id": 59981
+  },
+  {
+    "name": "XPEDIOR INCORPORATED",
+    "type": "Reserved Name",
+    "record_num": "0000197592",
+    "id": 197212
+  },
+  {
+    "name": "Xpedition Well Service LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006832697",
+    "id": 387490
+  },
+  {
+    "name": "XPEDX",
+    "type": "Trade Name",
+    "record_num": "0000213898",
+    "id": 213518
+  },
+  {
+    "name": "XPEDX, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000137812",
+    "id": 137440
+  },
+  {
+    "name": "XPEL, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006615596",
+    "id": 376114
+  },
+  {
+    "name": "Xperience Barbers",
+    "type": "Trade Name",
+    "record_num": "0005432375",
+    "id": 309601
+  },
+  {
+    "name": "Xperience Barbers LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005856034",
+    "id": 333623
+  },
+  {
+    "name": "XPERIENCE HEALTH & FITNESS",
+    "type": "Trade Name",
+    "record_num": "0000232126",
+    "id": 231746
+  },
+  {
+    "name": "XPERIENCE HEALTH & FITNESS LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000086814",
+    "id": 86448
+  },
+  {
+    "name": "Xperience Investments LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006184608",
+    "id": 352546
+  },
+  {
+    "name": "Xperience Title, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005328786",
+    "id": 304915
+  },
+  {
+    "name": "Xpert Concrete Coatings LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006817200",
+    "id": 386669
+  },
+  {
+    "name": "Xpert Concrete Coatings LLC",
+    "type": "Reserved Name",
+    "record_num": "0006817210",
+    "id": 386671
+  },
+  {
+    "name": "Xpert Drywall llc",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0002857167",
+    "id": 282517
+  },
+  {
+    "name": "XPERT DRYWALL, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000082421",
+    "id": 82058
+  },
+  {
+    "name": "XPERT ENTERPRISES LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000155270",
+    "id": 154896
+  },
+  {
+    "name": "Xpert Home Lending Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006569153",
+    "id": 373175
+  },
+  {
+    "name": "XPERT TECHNOLOGY SOLUTIONS LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000095599",
+    "id": 95230
+  },
+  {
+    "name": "XPERT U",
+    "type": "Trade Name",
+    "record_num": "0000253617",
+    "id": 253237
+  },
+  {
+    "name": "Xpert Xteriors, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0003036205",
+    "id": 291576
+  },
+  {
+    "name": "XPG",
+    "type": "Trade Name",
+    "record_num": "0000220841",
+    "id": 220461
+  },
+  {
+    "name": "XPI LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000107936",
+    "id": 107567
+  },
+  {
+    "name": "xPL Offsite, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0007054068",
+    "id": 400182
+  },
+  {
+    "name": "XPLOR CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000032812",
+    "id": 32621
+  },
+  {
+    "name": "XPLORE WATER, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000139156",
+    "id": 138783
+  },
+  {
+    "name": "XPLR Infrastructure Constructors, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002942261",
+    "id": 286920
+  },
+  {
+    "name": "XPO Logistics Freight, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000045863",
+    "id": 45656
+  },
+  {
+    "name": "XPON INTERNATIONAL LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000170309",
+    "id": 169931
+  },
+  {
+    "name": "XPONET (dba XPONET CORPORATION)",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000160347",
+    "id": 159971
+  },
+  {
+    "name": "XPONET CORPORATION",
+    "type": "Trade Name",
+    "record_num": "0000267498",
+    "id": 267118
+  },
+  {
+    "name": "XPOSE MODELS",
+    "type": "Trade Name",
+    "record_num": "0000244701",
+    "id": 244321
+  },
+  {
+    "name": "XPOSURE @ WEST 13TH",
+    "type": "Trade Name",
+    "record_num": "0000210273",
+    "id": 209893
+  },
+  {
+    "name": "XPRESS BLASTING LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000159524",
+    "id": 159148
+  },
+  {
+    "name": "Xpress Bookkeepers",
+    "type": "Trade Name",
+    "record_num": "0006283339",
+    "id": 359470
+  },
+  {
+    "name": "XPRESS COMPOUNDING",
+    "type": "Trade Name",
+    "record_num": "0000258755",
+    "id": 258375
+  },
+  {
+    "name": "X-PRESS CUTZ",
+    "type": "Trade Name",
+    "record_num": "0000259886",
+    "id": 259506
+  },
+  {
+    "name": "XPRESS GLOBAL SYSTEMS, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000117873",
+    "id": 117503
+  },
+  {
+    "name": "X'PRESS HAIR DEZYNES",
+    "type": "Trade Name",
+    "record_num": "0000262567",
+    "id": 262187
+  },
+  {
+    "name": "X'PRESS HAIR DEZYNES LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000136864",
+    "id": 136492
+  },
+  {
+    "name": "XPRESS KUTZ & STYLZ",
+    "type": "Trade Name",
+    "record_num": "0000263540",
+    "id": 263160
+  },
+  {
+    "name": "XPRESS LOAN SERVICING",
+    "type": "Trade Name",
+    "record_num": "0000212806",
+    "id": 212426
+  },
+  {
+    "name": "XPRESS MART",
+    "type": "Trade Name",
+    "record_num": "0000208383",
+    "id": 208003
+  },
+  {
+    "name": "XPRESS MONEY",
+    "type": "Trade Name",
+    "record_num": "0000265874",
+    "id": 265494
+  },
+  {
+    "name": "Xpress Painting Solutions LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005969887",
+    "id": 342668
+  },
+  {
+    "name": "XPRESS PORTABLES, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000136904",
+    "id": 136532
+  },
+  {
+    "name": "XPRESS RETAIL LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000154668",
+    "id": 154294
+  },
+  {
+    "name": "XPRESS RIDESHARE, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000167955",
+    "id": 167577
+  },
+  {
+    "name": "X-PRESS SCAN AND PRINT, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000043718",
+    "id": 43514
+  },
+  {
+    "name": "XPRESS TRUCKING LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000099682",
+    "id": 99313
+  },
+  {
+    "name": "Xpressbet, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006429887",
+    "id": 367060
+  },
+  {
+    "name": "XPRESSCHEX",
+    "type": "Trade Name",
+    "record_num": "0000221001",
+    "id": 220621
+  },
+  {
+    "name": "XpressConnect Supply, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006737933",
+    "id": 383772
+  },
+  {
+    "name": "XPRESSDOCS GP, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000173989",
+    "id": 173609
+  },
+  {
+    "name": "XPRESSDOCS PARTNERS, LTD. (dba XPRESSDOCS PARTNERS, LTD., A TEXAS LP)",
+    "type": "Limited Partnership - Foreign",
+    "record_num": "0000188561",
+    "id": 188181
+  },
+  {
+    "name": "XPRESSDOCS PARTNERS, LTD., A TEXAS LP",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000197022",
+    "id": 196642
+  },
+  {
+    "name": "XPRESSMART",
+    "type": "Trade Name",
+    "record_num": "0000220343",
+    "id": 219963
+  },
+  {
+    "name": "XPT Partners, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005216693",
+    "id": 299621
+  },
+  {
+    "name": "XPT Specialty",
+    "type": "Trade Name",
+    "record_num": "0006042100",
+    "id": 345737
+  },
+  {
+    "name": "XPUCK, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000078918",
+    "id": 78688
+  },
+  {
+    "name": "XQUISITE CONSTRUCTION",
+    "type": "Trade Name",
+    "record_num": "0000250269",
+    "id": 249889
+  },
+  {
+    "name": "Xquisite Construction LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002853122",
+    "id": 282230
+  },
+  {
+    "name": "XQUISITE DETAIL",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000191274",
+    "id": 190894
+  },
+  {
+    "name": "XQUISITE HAIR BY PAIGE",
+    "type": "Trade Name",
+    "record_num": "0000251598",
+    "id": 251218
+  },
+  {
+    "name": "XQUIZIT KUSTUMZ",
+    "type": "Trade Name",
+    "record_num": "0000236441",
+    "id": 236061
+  },
+  {
+    "name": "XQUIZIT-KUSTOMZ",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000194170",
+    "id": 193790
+  },
+  {
+    "name": "XR Solutions, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005945632",
+    "id": 341094
+  },
+  {
+    "name": "XRAM EXCAVATION, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000115506",
+    "id": 115136
+  },
+  {
+    "name": "X-RAY LIMA TANGO, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000161142",
+    "id": 160766
+  },
+  {
+    "name": "XRHEALTH USA INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0003147408",
+    "id": 295648
+  },
+  {
+    "name": "XRPL Mining Company, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006337035",
+    "id": 362750
+  },
+  {
+    "name": "XRQ CORP.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0005595152",
+    "id": 321246
+  },
+  {
+    "name": "XRT, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006068093",
+    "id": 347501
+  },
+  {
+    "name": "XS AUTOMATION",
+    "type": "Trade Name",
+    "record_num": "0000255321",
+    "id": 254941
+  },
+  {
+    "name": "XS COMBAT SPORTS, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000086462",
+    "id": 86096
+  },
+  {
+    "name": "XS DAKOTA, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000152209",
+    "id": 151835
+  },
+  {
+    "name": "XS EQUINE THERAPY",
+    "type": "Trade Name",
+    "record_num": "0000236778",
+    "id": 236398
+  },
+  {
+    "name": "XS TRUCKING, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000108255",
+    "id": 107886
+  },
+  {
+    "name": "XSeed Consultants",
+    "type": "Trade Name",
+    "record_num": "0006996425",
+    "id": 396789
+  },
+  {
+    "name": "X-SELL AUCTION ENTERPRISE",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000192404",
+    "id": 192024
+  },
+  {
+    "name": "X-SELL CLERKING SERVICE",
+    "type": "Trade Name",
+    "record_num": "0000215785",
+    "id": 215405
+  },
+  {
+    "name": "Xsellr8r, Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006709030",
+    "id": 381522
+  },
+  {
+    "name": "XSERVE SOLUTIONS, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000159806",
+    "id": 159430
+  },
+  {
+    "name": "X-SHOTS' FIRE SERVICE INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000074566",
+    "id": 74343
+  },
+  {
+    "name": "XSIDING XTERIORS LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000092139",
+    "id": 91770
+  },
+  {
+    "name": "X-SITE Energy Services LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0002831615",
+    "id": 280584
+  },
+  {
+    "name": "XSM ATM Services LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006280606",
+    "id": 359212
+  },
+  {
+    "name": "Xsolla Payment Network USA, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006761557",
+    "id": 386152
+  },
+  {
+    "name": "Xspray Pharma Inc.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006591189",
+    "id": 374198
+  },
+  {
+    "name": "XSSENTIALS LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000137832",
+    "id": 137460
+  },
+  {
+    "name": "XSTREAM CLEAN CAR WASH",
+    "type": "Trade Name",
+    "record_num": "0000266636",
+    "id": 266256
+  },
+  {
+    "name": "XSTREAM CLEAN CAR WASH",
+    "type": "Trade Name",
+    "record_num": "0005767677",
+    "id": 328417
+  },
+  {
+    "name": "X-STREAM DETAILING, LLP",
+    "type": "Limited Liability Partnership - Domestic",
+    "record_num": "0000186256",
+    "id": 185876
+  },
+  {
+    "name": "XSTREAM MOBILE SERVICE LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000148161",
+    "id": 147788
+  },
+  {
+    "name": "XSTREAM MOBILE SERVICE LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000174034",
+    "id": 173654
+  },
+  {
+    "name": "XSTREAM PROPERTIES, LLP",
+    "type": "Limited Liability Partnership - Domestic",
+    "record_num": "0000180566",
+    "id": 180186
+  },
+  {
+    "name": "X-STREAM WATERJETTING, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000146667",
+    "id": 146294
+  },
+  {
+    "name": "X-STREAM WATERJETTING, LLP",
+    "type": "Limited Liability Partnership - Domestic",
+    "record_num": "0000186573",
+    "id": 186193
+  },
+  {
+    "name": "Xstreme MD",
+    "type": "Trade Name",
+    "record_num": "0002708816",
+    "id": 275471
+  },
+  {
+    "name": "Xstreme MD",
+    "type": "Trade Name",
+    "record_num": "0006612579",
+    "id": 375793
+  },
+  {
+    "name": "XTC U.S. XPRESS INC. U.S. INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0006482466",
+    "id": 369998
+  },
+  {
+    "name": "XTDIRECT, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0005445845",
+    "id": 310465
+  },
+  {
+    "name": "X-TECH",
+    "type": "Trade Name",
+    "record_num": "0000266072",
+    "id": 265692
+  },
+  {
+    "name": "X-TECH LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000157433",
+    "id": 157057
+  },
+  {
+    "name": "XTENCITY, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000069260",
+    "id": 69043
+  },
+  {
+    "name": "XTENSION BAY",
+    "type": "Trade Name",
+    "record_num": "0000249045",
+    "id": 248665
+  },
+  {
+    "name": "XTERIOR CONCEPTS",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000193462",
+    "id": 193082
+  },
+  {
+    "name": "X-TERIOR SOLUTIONS",
+    "type": "Trade Name",
+    "record_num": "0000228452",
+    "id": 228072
+  },
+  {
+    "name": "X-terior Solutions",
+    "type": "Trade Name",
+    "record_num": "0005407945",
+    "id": 308363
+  },
+  {
+    "name": "X-TERIOR SOLUTIONS LLP",
+    "type": "Limited Liability Partnership - Domestic",
+    "record_num": "0000180716",
+    "id": 180336
+  },
+  {
+    "name": "XTERNALSOURCE LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006960714",
+    "id": 393921
+  },
+  {
+    "name": "XTINGWISH",
+    "type": "Trade Name",
+    "record_num": "0000211358",
+    "id": 210978
+  },
+  {
+    "name": "XTINGWISH LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000147168",
+    "id": 146795
+  },
+  {
+    "name": "XTO ENERGY INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000032951",
+    "id": 32760
+  },
+  {
+    "name": "XTO ENERGY INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000076872",
+    "id": 76644
+  },
+  {
+    "name": "XTO HOLDINGS, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000172330",
+    "id": 171952
+  },
+  {
+    "name": "XTO OFFSHORE INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000013762",
+    "id": 13614
+  },
+  {
+    "name": "XTOP LANGUAGE EDUCATION SERVICES",
+    "type": "Trade Name",
+    "record_num": "0000269773",
+    "id": 269393
+  },
+  {
+    "name": "XTRA APPAREL CO LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000169920",
+    "id": 169542
+  },
+  {
+    "name": "XTRA BUSINESS SYSTEMS",
+    "type": "Trade Name",
+    "record_num": "0000203770",
+    "id": 203390
+  },
+  {
+    "name": "XTRA CARE LEASING, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000067323",
+    "id": 67106
+  },
+  {
+    "name": "X-TRA CONSTRUCTION",
+    "type": "Trade Name",
+    "record_num": "0000227010",
+    "id": 226630
+  },
+  {
+    "name": "Xtra Hand LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0007051667",
+    "id": 399935
+  },
+  {
+    "name": "Xtra Mile Property Services LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006618532",
+    "id": 376440
+  },
+  {
+    "name": "XTRA PROPERTIES, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000077355",
+    "id": 77127
+  },
+  {
+    "name": "XTRALIGHT MANUFACTURING LP",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000195824",
+    "id": 195444
+  },
+  {
+    "name": "XTRALIGHT MANUFACTURING, LTD. (dba XTRALIGHT MANUFACTURING LP)",
+    "type": "Limited Partnership - Foreign",
+    "record_num": "0000185800",
+    "id": 185420
+  },
+  {
+    "name": "Xtra-Office, Inc.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0002694720",
+    "id": 273964
+  },
+  {
+    "name": "Xtravagant Elegance",
+    "type": "Trade Name",
+    "record_num": "0005852807",
+    "id": 333362
+  },
+  {
+    "name": "XTRAX ENERGY LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000138432",
+    "id": 138060
+  },
+  {
+    "name": "XTREAM MOBILE PRESSURE WASHING LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000116453",
+    "id": 116083
+  },
+  {
+    "name": "XTREME AUTO DETAIL LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000150272",
+    "id": 149899
+  },
+  {
+    "name": "Xtreme Auto Detailz",
+    "type": "Trade Name",
+    "record_num": "0005917675",
+    "id": 337680
+  },
+  {
+    "name": "XTREME AUTO, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000083485",
+    "id": 83121
+  },
+  {
+    "name": "XTREME BUILDERS",
+    "type": "Fictitious Partnership Name",
+    "record_num": "0000193102",
+    "id": 192722
+  },
+  {
+    "name": "XTREME BUILDERS",
+    "type": "Trade Name",
+    "record_num": "0000237338",
+    "id": 236958
+  },
+  {
+    "name": "Xtreme Carpet Cleaning LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005427601",
+    "id": 309214
+  },
+  {
+    "name": "XTREME CHEMICAL COMPANY, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000084586",
+    "id": 84221
+  },
+  {
+    "name": "Xtreme Cleaning Services LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006482080",
+    "id": 369976
+  },
+  {
+    "name": "XTREME CONCRETE SERVICES LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000111958",
+    "id": 111588
+  },
+  {
+    "name": "XTREME CONSULTING GROUP, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000089083",
+    "id": 88715
+  },
+  {
+    "name": "XTREME DEEP CLEANING L.L.C.",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000154992",
+    "id": 154618
+  },
+  {
+    "name": "X-treme Detailing",
+    "type": "Trade Name",
+    "record_num": "0005426033",
+    "id": 309089
+  },
+  {
+    "name": "X-treme Detailing llc",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005856910",
+    "id": 333710
+  },
+  {
+    "name": "XTREME DRILLING, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000092696",
+    "id": 92327
+  },
+  {
+    "name": "XTREME DRYWALL",
+    "type": "Trade Name",
+    "record_num": "0000229166",
+    "id": 228786
+  },
+  {
+    "name": "XTREME ELECTRIC CONTRACTORS, LLC (dba XEC, LLC)",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000117436",
+    "id": 117066
+  },
+  {
+    "name": "XTREME ELECTRIC INC",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000079498",
+    "id": 79268
+  },
+  {
+    "name": "XTREME ELECTRICAL SERVICES, INC. (dba X ELECTRIC)",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000106939",
+    "id": 106570
+  },
+  {
+    "name": "XTREME ENTERPRISES",
+    "type": "Trade Name",
+    "record_num": "0000244075",
+    "id": 243695
+  },
+  {
+    "name": "XTREME EXTERIORS N.A. INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000100629",
+    "id": 100260
+  },
+  {
+    "name": "XTREME FIRE PROTECTION, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000108517",
+    "id": 108148
+  },
+  {
+    "name": "X-TREME FITNESS, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000154722",
+    "id": 154348
+  },
+  {
+    "name": "XTREME FLOORS INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000117839",
+    "id": 117469
+  },
+  {
+    "name": "Xtreme Gun Works",
+    "type": "Trade Name",
+    "record_num": "0006065149",
+    "id": 347328
+  },
+  {
+    "name": "X-TREME HAIR STUDIO & TANNING",
+    "type": "Trade Name",
+    "record_num": "0000232579",
+    "id": 232199
+  },
+  {
+    "name": "X-TREME HAIR STUDIO & TANNING",
+    "type": "Trade Name",
+    "record_num": "0000235652",
+    "id": 235272
+  },
+  {
+    "name": "Xtreme installation LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005916425",
+    "id": 337553
+  },
+  {
+    "name": "Xtreme installations",
+    "type": "Trade Name",
+    "record_num": "0005565360",
+    "id": 318390
+  },
+  {
+    "name": "XTREME INVESTMENTS INC",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0005583847",
+    "id": 319902
+  },
+  {
+    "name": "Xtreme Jumps LLC",
+    "type": "Reserved Name",
+    "record_num": "0005191211",
+    "id": 298278
+  },
+  {
+    "name": "Xtreme Lawn Care LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006637287",
+    "id": 376551
+  },
+  {
+    "name": "XTREME LIGHTING",
+    "type": "Trade Name",
+    "record_num": "0000259814",
+    "id": 259434
+  },
+  {
+    "name": "XTREME LIMOS",
+    "type": "Trade Name",
+    "record_num": "0000214347",
+    "id": 213967
+  },
+  {
+    "name": "XTREME LIQUOR AND BEVERAGE COMPANY",
+    "type": "Trade Name",
+    "record_num": "0000229252",
+    "id": 228872
+  },
+  {
+    "name": "X-TREME MACHINES COMPUTER SOLUTIONS",
+    "type": "Trade Name",
+    "record_num": "0000216360",
+    "id": 215980
+  },
+  {
+    "name": "XTREME MANUFACTURING, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000121547",
+    "id": 121177
+  },
+  {
+    "name": "XTREME MARINE OF WILLISTON, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000074710",
+    "id": 74486
+  },
+  {
+    "name": "XTREME MEASURES",
+    "type": "Trade Name",
+    "record_num": "0000234276",
+    "id": 233896
+  },
+  {
+    "name": "XTREME MEASURES, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000126100",
+    "id": 125730
+  },
+  {
+    "name": "XTREME MOTORSPORTS",
+    "type": "Trade Name",
+    "record_num": "0000226801",
+    "id": 226421
+  },
+  {
+    "name": "XTREME MOTORSPORTS, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000058552",
+    "id": 58342
+  },
+  {
+    "name": "X-TREME NORTH STEAK-N-ALE, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000059259",
+    "id": 59048
+  },
+  {
+    "name": "XTREME NOVELTIES",
+    "type": "Trade Name",
+    "record_num": "0000231276",
+    "id": 230896
+  },
+  {
+    "name": "XTREME OILFIELD LOGISTICS INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000122590",
+    "id": 122220
+  },
+  {
+    "name": "X-TREME OUTFITTERS",
+    "type": "Trade Name",
+    "record_num": "0000229359",
+    "id": 228979
+  },
+  {
+    "name": "XTREME PIZZA KITCHEN, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000065507",
+    "id": 65291
+  },
+  {
+    "name": "X-TREME POLISHING",
+    "type": "Trade Name",
+    "record_num": "0000257889",
+    "id": 257509
+  },
+  {
+    "name": "XTREME PRINTING & NOVELTIES INC",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000084736",
+    "id": 84371
+  },
+  {
+    "name": "XTREME PRODUCTS LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000133058",
+    "id": 132687
+  },
+  {
+    "name": "XTREME RESTORATION & CARPET CARE, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000108706",
+    "id": 108337
+  },
+  {
+    "name": "XTREME ROCK LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000113353",
+    "id": 112983
+  },
+  {
+    "name": "XTREME SIGNS & GRAPHIX",
+    "type": "Trade Name",
+    "record_num": "0000231841",
+    "id": 231461
+  },
+  {
+    "name": "XTREME SKID STEER SERVICES",
+    "type": "Trade Name",
+    "record_num": "0000258381",
+    "id": 258001
+  },
+  {
+    "name": "XTREME STAFFING",
+    "type": "Trade Name",
+    "record_num": "0000239386",
+    "id": 239006
+  },
+  {
+    "name": "XTREME STEAM CLEAN LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000165969",
+    "id": 165592
+  },
+  {
+    "name": "Xtreme Transport Logistics LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005572886",
+    "id": 319007
+  },
+  {
+    "name": "XTREME TROPHY PROPERTIES",
+    "type": "Trade Name",
+    "record_num": "0000240962",
+    "id": 240582
+  },
+  {
+    "name": "XTREME XTERIORS LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000157989",
+    "id": 157613
+  },
+  {
+    "name": "Xtreme Xteriors LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0002772735",
+    "id": 278474
+  },
+  {
+    "name": "Xtremely Smooth Quality Drywall LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0003148030",
+    "id": 295688
+  },
+  {
+    "name": "XTREMELY SMOOTH QUALITY DRYWALL, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000112034",
+    "id": 111664
+  },
+  {
+    "name": "XTREME-TEK COMPUTER SOLUTIONS",
+    "type": "Trade Name",
+    "record_num": "0000231662",
+    "id": 231282
+  },
+  {
+    "name": "XTS",
+    "type": "Trade Name",
+    "record_num": "0000238908",
+    "id": 238528
+  },
+  {
+    "name": "XTS Holdings, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005668778",
+    "id": 323712
+  },
+  {
+    "name": "XTS SOFTWARE CORPORATION",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000050368",
+    "id": 50160
+  },
+  {
+    "name": "XTTRIUM LABORATORIES, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000100538",
+    "id": 100169
+  },
+  {
+    "name": "XU ENTERPRISE LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000158368",
+    "id": 157992
+  },
+  {
+    "name": "XUE REN YU, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000105767",
+    "id": 105398
+  },
+  {
+    "name": "XVEON GROUP INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000054123",
+    "id": 53913
+  },
+  {
+    "name": "XVEON WIRELESS",
+    "type": "Trade Name",
+    "record_num": "0000220867",
+    "id": 220487
+  },
+  {
+    "name": "XVITA, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000077058",
+    "id": 76830
+  },
+  {
+    "name": "XWA 2024, LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006856720",
+    "id": 389761
+  },
+  {
+    "name": "XWind Services Ltd.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0005309492",
+    "id": 303782
+  },
+  {
+    "name": "XXI CENTURY LTD.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000009887",
+    "id": 9739
+  },
+  {
+    "name": "XXX RIG SERVICES",
+    "type": "Trade Name",
+    "record_num": "0000244289",
+    "id": 243909
+  },
+  {
+    "name": "XXXXX Holdings LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006264782",
+    "id": 357877
+  },
+  {
+    "name": "XYBERNAUT SOLUTIONS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000067781",
+    "id": 67564
+  },
+  {
+    "name": "XYGENT, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000101675",
+    "id": 101306
+  },
+  {
+    "name": "XYLEM DEWATERING SOLUTIONS, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000138604",
+    "id": 138231
+  },
+  {
+    "name": "Xylem I LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0006885195",
+    "id": 391100
+  },
+  {
+    "name": "XYLEM WATER SOLUTIONS U.S.A., INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000111500",
+    "id": 111130
+  },
+  {
+    "name": "XYMTEC Industries LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005486763",
+    "id": 312780
+  },
+  {
+    "name": "XYTEX, INC.",
+    "type": "Corporation - Business - Domestic",
+    "record_num": "0000006272",
+    "id": 6124
+  },
+  {
+    "name": "XYZ BUILDERS",
+    "type": "Trade Name",
+    "record_num": "0000250719",
+    "id": 250339
+  },
+  {
+    "name": "XYZ ELECTRIC, INC.",
+    "type": "Trade Name",
+    "record_num": "0000241109",
+    "id": 240729
+  },
+  {
+    "name": "XYZ FINISHES",
+    "type": "Trade Name",
+    "record_num": "0000250431",
+    "id": 250051
+  },
+  {
+    "name": "XYZ HOLDINGS LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0000109812",
+    "id": 109442
+  },
+  {
+    "name": "XYZ HOTSHOT",
+    "type": "Trade Name",
+    "record_num": "0000251411",
+    "id": 251031
+  },
+  {
+    "name": "XYZ LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0005700803",
+    "id": 325642
+  },
+  {
+    "name": "XYZ PURE GRAPHICS DESIGN",
+    "type": "Trade Name",
+    "record_num": "0000266786",
+    "id": 266406
+  },
+  {
+    "name": "XYZ ROOFCO, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0007050351",
+    "id": 399806
+  },
+  {
+    "name": "XYZ Services LLC",
+    "type": "Limited Liability Company - Business - Domestic",
+    "record_num": "0006118943",
+    "id": 349089
+  },
+  {
+    "name": "XZIEX PROPERTIES, LLC",
+    "type": "Limited Liability Company - Business - Foreign",
+    "record_num": "0000042447",
+    "id": 42243
+  },
+  {
+    "name": "XZIEX, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000042805",
+    "id": 42601
+  },
+  {
+    "name": "XZILON, INC.",
+    "type": "Corporation - Business - Foreign",
+    "record_num": "0000162789",
+    "id": 162412
+  }
+]
